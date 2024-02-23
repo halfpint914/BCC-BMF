@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WoodPlanks1
+  m_Name: InteriorDryWallPurple
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -28,11 +28,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: a903273e57de31049ab8b71d131d81c4, type: 3}
-        m_Scale: {x: 0.1, y: 0.2}
-        m_Offset: {x: -0.57, y: -0.02}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 8eb90510821b3fb4fa535acfb1a14b15, type: 3}
+        m_Texture: {fileID: 2800000, guid: b6ebc08d53f65df4999b9fd891510cc7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -52,19 +52,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a903273e57de31049ab8b71d131d81c4, type: 3}
-        m_Scale: {x: 0.1, y: 0.2}
-        m_Offset: {x: -0.57, y: -0.02}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 67431212e7ee0ba48b4a713d377484c3, type: 3}
+        m_Texture: {fileID: 2800000, guid: a9ce08ff9ea15b845808f75b5256975c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: e14affc1d096d754f8caa1bdfd0887d4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 551ed01cffae5e4429f656522e69407e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -107,7 +107,7 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0
+    - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -116,12 +116,12 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.3962264, g: 0.2642718, b: 0.15512636, a: 1}
-    - _Color: {r: 0.39622638, g: 0.26427177, b: 0.15512633, a: 1}
+    - _BaseColor: {r: 0.2627451, g: 0.12941177, b: 0.37254903, a: 1}
+    - _Color: {r: 0.26274508, g: 0.12941173, b: 0.372549, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &4810400406626724847
+--- !u!114 &824129149596083340
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
