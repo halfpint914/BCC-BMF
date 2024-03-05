@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 4954c51c82c07dc47bc54cc83dfd0729
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bowl1
+    100004: bowl2
+    100006: cup1
+    100008: cup2
+    100010: cup3
+    100012: plate1
+    100014: plate2
+    100016: plate3
+    100018: plate5
+    100020: plate6
+    100022: plate7
+    100024: plate8
+    100026: tableware.001
+    100028: tableware.014
+    100030: tableware.015
+    100032: tableware.016
+    100034: fork1
+    100036: knife1
+    100038: spoon1
+    400000: //RootNode
+    400002: bowl1
+    400004: bowl2
+    400006: cup1
+    400008: cup2
+    400010: cup3
+    400012: plate1
+    400014: plate2
+    400016: plate3
+    400018: plate5
+    400020: plate6
+    400022: plate7
+    400024: plate8
+    400026: tableware.001
+    400028: tableware.014
+    400030: tableware.015
+    400032: tableware.016
+    400034: fork1
+    400036: knife1
+    400038: spoon1
+    2100000: No Name
+    2300000: //RootNode
+    2300002: bowl1
+    2300004: bowl2
+    2300006: cup1
+    2300008: cup2
+    2300010: cup3
+    2300012: plate1
+    2300014: plate2
+    2300016: plate3
+    2300018: plate5
+    2300020: plate6
+    2300022: plate7
+    2300024: plate8
+    2300026: tableware.001
+    2300028: tableware.014
+    2300030: tableware.015
+    2300032: tableware.016
+    2300034: fork1
+    2300036: knife1
+    2300038: spoon1
+    3300000: //RootNode
+    3300002: bowl1
+    3300004: bowl2
+    3300006: cup1
+    3300008: cup2
+    3300010: cup3
+    3300012: plate1
+    3300014: plate2
+    3300016: plate3
+    3300018: plate5
+    3300020: plate6
+    3300022: plate7
+    3300024: plate8
+    3300026: tableware.001
+    3300028: tableware.014
+    3300030: tableware.015
+    3300032: tableware.016
+    3300034: fork1
+    3300036: knife1
+    3300038: spoon1
+    4300000: tableware
+    4300002: tableware.016
+    4300004: tableware.015
+    4300006: tableware.014
+    4300008: plate2
+    4300010: plate1
+    4300012: bowl2
+    4300014: plate8
+    4300016: plate6
+    4300018: bowl1
+    4300020: plate5
+    4300022: plate7
+    4300024: cup3
+    4300026: cup1
+    4300028: cup2
+    4300030: plate3
+    4300032: tableware.001
+    4300034: fork1
+    4300036: spoon1
+    4300038: knife1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e8871281f8f7d8d48b571dd7c83b6b2a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
