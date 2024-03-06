@@ -6,7 +6,6 @@ using UnityEditor;
 
 public class SceneLoader : MonoBehaviour
 {
-    // Expose fields for drag-and-drop in the Unity Editor
     [SerializeField] private GameObject prefabToSpawn;
     [SerializeField] private Transform playerTransform;
 
