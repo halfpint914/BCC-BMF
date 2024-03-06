@@ -123,6 +123,10 @@ PrefabInstance:
       propertyPath: m_Convex
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3824663321616714086, guid: 26a5fddb780601a4da5e1425c84ff42d, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 10bde48ef542d6a4fbee12145283824a, type: 2}
     - target: {fileID: 6913132605406912044, guid: 26a5fddb780601a4da5e1425c84ff42d, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -417,6 +421,10 @@ PrefabInstance:
       propertyPath: m_Convex
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3824663321616714086, guid: 26a5fddb780601a4da5e1425c84ff42d, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 10bde48ef542d6a4fbee12145283824a, type: 2}
     - target: {fileID: 6913132605406912044, guid: 26a5fddb780601a4da5e1425c84ff42d, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1151,6 +1159,10 @@ PrefabInstance:
       propertyPath: m_Convex
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5784744793613834837, guid: a93e1497c19197b45aec456337620410, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 10bde48ef542d6a4fbee12145283824a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
